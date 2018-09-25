@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
+- [kamadi-douglas](https://github.com/kamadi-douglas/hello-world.git)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
